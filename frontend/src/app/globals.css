@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.semantic {
+  background-color: rgb(1, 102, 255, 1);
+  /* background-image: url("/frontend/public/Noise.png"); */
+}
+.godott {
+  color: green;
+}
+.bluedott {
+  color: blue;
+}
+.arrowup {
+  color: green;
+}
+.arrowdown {
+  color: blue;
+}
